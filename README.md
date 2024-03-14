@@ -1,6 +1,10 @@
 ![Screenshot (137)](https://github.com/SHREYA4454/antd-demo/assets/78424557/26285d78-44e4-44eb-b919-78c16ffc29a4)
 ![Screenshot (138)](https://github.com/SHREYA4454/antd-demo/assets/78424557/ea94ab68-666f-4430-9878-2fb06a33b14a)
+![Screenshot (139)](https://github.com/SHREYA4454/antd-demo/assets/78424557/037cd392-e701-42d3-80de-2132db43bf91)
+![Screenshot (140)](https://github.com/SHREYA4454/antd-demo/assets/78424557/c47e7437-b2de-41ab-aef3-6def6f1fe9c4)
+
 ![Screenshot (141)](https://github.com/SHREYA4454/antd-demo/assets/78424557/31a7be0c-5be3-48b0-a285-f11a8aa316ff)
+![Screenshot (142)](https://github.com/SHREYA4454/antd-demo/assets/78424557/3aa099a2-0987-42db-a1e1-d0561b0c57a8)
 
 # Getting Started with Create React App
 
