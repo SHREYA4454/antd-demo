@@ -1,4 +1,7 @@
 ![Screenshot (137)](https://github.com/SHREYA4454/antd-demo/assets/78424557/26285d78-44e4-44eb-b919-78c16ffc29a4)
+![Screenshot (138)](https://github.com/SHREYA4454/antd-demo/assets/78424557/ea94ab68-666f-4430-9878-2fb06a33b14a)
+![Screenshot (141)](https://github.com/SHREYA4454/antd-demo/assets/78424557/31a7be0c-5be3-48b0-a285-f11a8aa316ff)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
